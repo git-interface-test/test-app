@@ -1,6 +1,6 @@
 # 📦 Test App with Docker Support
 
-This repository contains a Node.js application packaged with Docker and managed via Docker Compose. It allows you to run the application in a containerized environment for easy setup and deployment.
+This repository contains a Node.js application packaged with Docker and managed via Docker Compose. It allows you to run the application in a containerized environment for easy setup and deployment
 
 ## 📁 Project Structure
 ```
